@@ -1,5 +1,5 @@
 # Pizza-sales-dashboard
-Check out the Pizza Sales Dashboard(https://app.powerbi.com/groups/me/reports/c51931d7-9dd8-4d4d-9d5f-fba97399db13/9594b652a008e615a3fa?experience=power-bi)
+Check out the [Pizza Sales Dashboard](https://app.powerbi.com/groups/me/reports/c51931d7-9dd8-4d4d-9d5f-fba97399db13/9594b652a008e615a3fa?experience=power-bi)
 
 PROBLEM STATEMENT
 
