@@ -26,9 +26,8 @@ Time series charts illustrating sales trends.
 Geographic maps showing the distribution of restaurant locations.
 Dashboards summarizing key performance indicators (KPIs).
 Power BI Visualization
-Dashboard 1
 
-Dashboard 2
+
 
 5. Insights and Recommendations
 Based on the analysis and visualizations, actionable insights and recommendations are provided to the pizza restaurant chain. These insights can help in making informed decisions to improve sales, marketing strategies, and overall business performance.
