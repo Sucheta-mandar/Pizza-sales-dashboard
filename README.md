@@ -6,6 +6,7 @@ PROBLEM STATEMENT
 A popular pizza store wants to optimize its sales and marketing strategies to increase revenue and customer satisfaction.To achieve this, the company needs to analyze its sales data to uncover insights into customer preferences, sales trends, and product performance.The goal is to uncover insights from the data and develop actionable recommendations to drive business growth. The Client divided the problem statement into two sections;
 
 KPI’s requirement
+
 We need to analyze the key indicators for our Pizza sales data to gain insights into our business performance, we want to calculate the following metrics :
 
 •	Total Revenue
@@ -13,6 +14,7 @@ We need to analyze the key indicators for our Pizza sales data to gain insights 
 •	Average Order Value
 •	Total Pizzas Sold
 •	Average Pizzas Per Order
+
 Charts requirement We would like to visualize various aspects of our Pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts :
 
 •	Daily trend for Total Orders
@@ -23,6 +25,7 @@ Charts requirement We would like to visualize various aspects of our Pizza sales
 •	Top 5 best selling & Bottom 5 worst selling pizzas
 
 OBJECTIVES
+
 Conduct a comprehensive sales performance analysis for a pizza store using SQL queries and visualize the findings using Power BI. The objective is to gain insights into sales trends, revenue distribution, and top performing products to inform strategic decision-making and optimize sales strategies.
 
 Project Components
@@ -52,7 +55,6 @@ Developed two dynamic dashboards in Power BI to cater to distinct business needs
 
 • The second dashboard highlights best and worst-selling pizzas through visually engaging charts and tables, providing a comprehensive overview of pizza sales performance. By leveraging intuitive visuals and comparative analysis, this dashboard facilitates informed product management strategies and enables targeted marketing efforts to drive sales growth.
 
-Check out the Pizza Sales Dashboard
 Snapshots of Dashboard
 
 ![Screenshot 2025-06-26 194004](https://github.com/user-attachments/assets/59989d87-0ad9-41f3-a8c7-36c093fa7550)
@@ -73,6 +75,7 @@ Snapshots of Dashboard
 
 • Among pizzas, THAI CHICKEN PIZZA contributes to maximum sales while CLASSIC DELUXE PIZZA are the most ordered one among the customers and BRIE CARRE PIZZA holds the position of least favoured pizza.
 
-Dependencies
+Dependencies 
+
 SQL database or data source
 Power BI Desktop
